@@ -1,7 +1,2 @@
 # Typing-Test-Game
-Through the use of:
-  functions
-  classes
-  text files
-  threading
- This code tests the users typing speed
+With the use of functions, classes, external text files, and threading, this program tests the users typing speed.
